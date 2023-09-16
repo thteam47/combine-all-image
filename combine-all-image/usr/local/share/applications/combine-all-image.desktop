@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=combine-all-image
+Exec=combine-all-image 
+Icon=combine-all-image
+Keywords=fyne;
