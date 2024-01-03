@@ -25,7 +25,7 @@ import (
 func main() {
 	a := app.New()
 	w := a.NewWindow("Resize Image")
-	w.Resize(fyne.NewSize(1100, 700))
+	w.Resize(fyne.NewSize(1100, 600))
 	w.CenterOnScreen()
 	//data := []models.Todo{}
 	todos := binding.NewUntypedList()
